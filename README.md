@@ -27,16 +27,14 @@ You can find all relevant app screens (Home and Post Details) there:
 
 ### Example
 
-![Screenshot 1](./Task%20Screenshots/IMG-20250627-WA0001.jpg)
-![Screenshot 2](./Task%20Screenshots/IMG-20250627-WA0002.jpg)
-![Screenshot 3](./Task%20Screenshots/IMG-20250627-WA0003.jpg)
-![Screenshot 4](./Task%20Screenshots/IMG-20250627-WA0004.jpg)
-![Screenshot 5](./Task%20Screenshots/IMG-20250627-WA0005.jpg)
+<img src="./Task%20Screenshots/IMG-20250627-WA0001.jpg" alt="Screenshot 1" width="300"/>
+<img src="./Task%20Screenshots/IMG-20250627-WA0002.jpg" alt="Screenshot 2" width="300"/>
+<img src="./Task%20Screenshots/IMG-20250627-WA0003.jpg" alt="Screenshot 3" width="300"/>
+<img src="./Task%20Screenshots/IMG-20250627-WA0004.jpg" alt="Screenshot 4" width="300"/>
+<img src="./Task%20Screenshots/IMG-20250627-WA0005.jpg" alt="Screenshot 5" width="300"/>
 
 ---
 
-**Note:**  
-If the images do not show up on GitHub, make sure the `Task Screenshots` folder and image files are committed and pushed to your repository.
 
 ## Getting Started
 
@@ -63,12 +61,8 @@ If the images do not show up on GitHub, make sure the `Task Screenshots` folder 
    npm install
    ```
 
-3. **Add screenshots:**
 
-   - Place your screenshots in a folder named `app-images` at the root of the project.
-   - Name them as referenced above (e.g., `home1.jpg`, `details1.jpg`, etc.).
-
-4. **Start the app:**
+3. **Start the app:**
    - Using Expo:
      ```sh
      npx expo start
