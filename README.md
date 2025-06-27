@@ -15,15 +15,28 @@ A simple React Native social media app that displays posts and comments, with a 
 
 ## Screenshots
 
+All screenshots are included in the [`Task Screenshots`](./Task%20Screenshots) folder in the project root.
 
-### Home Screen
-<img src="app-images/Home1.jpg" width="200" alt="Home screen showing post list"/> <img src="app-images/Home2.jpg" width="200" alt="Home screen with different posts"/> 
-<img src="app-images/Home3.jpg" width="200" alt="Alternate home screen view"/> <img src="app-images/Home4.jpg" width="200" alt="Additional home screen view"/>
+You can find all relevant app screens (Home and Post Details) there:
 
-### Post Details
-<img src="app-images/PostDetailsexamplee.jpg" width="200" alt="Post details with comments"/>
+- `IMG-20250627-WA0001.jpg`
+- `IMG-20250627-WA0002.jpg`
+- `IMG-20250627-WA0003.jpg`
+- `IMG-20250627-WA0004.jpg`
+- `IMG-20250627-WA0005.jpg`
+
+### Example
+
+![Screenshot 1](./Task%20Screenshots/IMG-20250627-WA0001.jpg)
+![Screenshot 2](./Task%20Screenshots/IMG-20250627-WA0002.jpg)
+![Screenshot 3](./Task%20Screenshots/IMG-20250627-WA0003.jpg)
+![Screenshot 4](./Task%20Screenshots/IMG-20250627-WA0004.jpg)
+![Screenshot 5](./Task%20Screenshots/IMG-20250627-WA0005.jpg)
 
 ---
+
+**Note:**  
+If the images do not show up on GitHub, make sure the `Task Screenshots` folder and image files are committed and pushed to your repository.
 
 ## Getting Started
 
@@ -50,9 +63,12 @@ A simple React Native social media app that displays posts and comments, with a 
    npm install
    ```
 
+3. **Add screenshots:**
 
+   - Place your screenshots in a folder named `app-images` at the root of the project.
+   - Name them as referenced above (e.g., `home1.jpg`, `details1.jpg`, etc.).
 
-3. **Start the app:**
+4. **Start the app:**
    - Using Expo:
      ```sh
      npx expo start
@@ -96,3 +112,7 @@ README.md
 
 This project is for educational/demo purposes.
 
+---
+
+**Screenshots:**  
+Add your screenshots to the `app-images` folder in the project root. Name them according to the references in this README (e.g., `home1.jpg`, `details1.jpg`).
