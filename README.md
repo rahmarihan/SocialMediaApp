@@ -113,6 +113,3 @@ README.md
 This project is for educational/demo purposes.
 
 ---
-
-**Screenshots:**  
-Add your screenshots to the `app-images` folder in the project root. Name them according to the references in this README (e.g., `home1.jpg`, `details1.jpg`).
